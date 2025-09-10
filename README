@@ -1,0 +1,35 @@
+# Produto de Geleias - Delícias Artesanais - Landing Page Exemplo Front-end
+
+Este é um projeto exemplo de uma landing page para um produto fictício, criado para demonstrar habilidades em desenvolvimento front-end usando Tailwind CSS e JavaScript puro.
+
+---
+
+## Sobre o projeto
+
+Produto de Geleias - Delícias Artesanais é uma landing page moderna, responsiva e interativa, que apresenta:
+
+- Header fixo com navegação responsiva (desktop e mobile)
+- Seção hero com chamada para ação
+- Seção de recursos com ícones e cards
+- Seção de depoimentos com slider simples em JavaScript
+- Formulário de contato estilizado
+- Footer com links para redes sociais
+
+Este projeto foi criado para ser um exemplo prático e visualmente atraente para portfólios de desenvolvedores front-end.
+
+---
+
+## Tecnologias usadas
+
+- [Tailwind CSS](https://tailwindcss.com/) (via CDN)
+- JavaScript puro para interatividade (menu mobile e slider de depoimentos)
+- HTML5 sem frameworks adicionais
+s
+---
+
+## Como usar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/produtoX-landing-page.git
